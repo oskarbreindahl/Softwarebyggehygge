@@ -1,0 +1,125 @@
+<mxfile host="app.diagrams.net" modified="2024-02-23T13:05:26.186Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="--Ne_N9sRipfNYlpeysC" version="23.1.5" type="github">
+  <diagram name="Page-1" id="GPfSG8dqceGoYyzkaN0X">
+    <mxGraphModel dx="934" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jdBxAFgn_817eQAfJT85-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;SkyGate&lt;/font&gt;&lt;br&gt;&lt;/b&gt;" style="image;html=1;image=img/lib/clip_art/computers/Software_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="374" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jdBxAFgn_817eQAfJT85-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="jdBxAFgn_817eQAfJT85-2" target="jdBxAFgn_817eQAfJT85-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jdBxAFgn_817eQAfJT85-4" value="Request Boarding pass,&lt;br&gt;Register passenger boarded flight" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="jdBxAFgn_817eQAfJT85-3">
+          <mxGeometry x="-0.1135" y="2" relative="1" as="geometry">
+            <mxPoint x="16" y="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jdBxAFgn_817eQAfJT85-2" value="Airline Flight Employee" style="image;html=1;image=img/lib/clip_art/people/Military_Officer_Woman_Black_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="220" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jdBxAFgn_817eQAfJT85-5" value="" style="image;html=1;image=img/lib/clip_art/computers/Workstation_128x128.png;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="170" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jdBxAFgn_817eQAfJT85-6" value="Passenger" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_Blue_128x128.png;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="80" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jdBxAFgn_817eQAfJT85-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="jdBxAFgn_817eQAfJT85-17" target="jdBxAFgn_817eQAfJT85-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="428.43137254901967" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jdBxAFgn_817eQAfJT85-16" value="Request Boarding pass (Check-in)&lt;br&gt;Check flight info" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="jdBxAFgn_817eQAfJT85-15">
+          <mxGeometry x="-0.2729" y="-5" relative="1" as="geometry">
+            <mxPoint x="8" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jdBxAFgn_817eQAfJT85-8" value="" style="image;html=1;image=img/lib/clip_art/computers/Secure_System_128x128.png;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="560" y="180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jdBxAFgn_817eQAfJT85-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="jdBxAFgn_817eQAfJT85-9" target="jdBxAFgn_817eQAfJT85-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jdBxAFgn_817eQAfJT85-11" value="Register cargo transitions,&lt;br&gt;Request cargo logistics information,&lt;br&gt;Report misplaced cargo" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="jdBxAFgn_817eQAfJT85-10">
+          <mxGeometry x="-0.1218" y="-4" relative="1" as="geometry">
+            <mxPoint x="5" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jdBxAFgn_817eQAfJT85-9" value="Cargo Logistics" style="image;html=1;image=img/lib/clip_art/people/Construction_Worker_Man_128x128.png;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="540" y="505" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jdBxAFgn_817eQAfJT85-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="jdBxAFgn_817eQAfJT85-8" target="jdBxAFgn_817eQAfJT85-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="609.9999999999998" y="300" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jdBxAFgn_817eQAfJT85-14" value="Access Flight plan,&lt;br&gt;Change Flight status,&lt;br&gt;Change Flight plan" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="jdBxAFgn_817eQAfJT85-13">
+          <mxGeometry x="0.1702" y="2" relative="1" as="geometry">
+            <mxPoint x="11" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jdBxAFgn_817eQAfJT85-17" value="" style="image;html=1;image=img/lib/clip_art/telecommunication/iPhone_128x128.png;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="130" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jdBxAFgn_817eQAfJT85-21" value="Passenger" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_Blue_128x128.png;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="100" y="130" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jdBxAFgn_817eQAfJT85-33" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="jdBxAFgn_817eQAfJT85-22" target="jdBxAFgn_817eQAfJT85-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jdBxAFgn_817eQAfJT85-34" value="Request+Register airport entry &lt;br&gt;with passport scan" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="jdBxAFgn_817eQAfJT85-33">
+          <mxGeometry x="-0.4433" y="1" relative="1" as="geometry">
+            <mxPoint x="-24" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jdBxAFgn_817eQAfJT85-22" value="Passenger" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_Blue_128x128.png;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="170" y="510" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jdBxAFgn_817eQAfJT85-23" value="Flight Control" style="image;html=1;image=img/lib/clip_art/people/Telesales_Woman_Black_128x128.png;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="620" y="180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jdBxAFgn_817eQAfJT85-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" target="jdBxAFgn_817eQAfJT85-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="454" y="140" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jdBxAFgn_817eQAfJT85-27" value="Register flight manifests,&lt;br&gt;Request info for flight planning,&lt;br&gt;Supply information for boarding passes and cargo" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="jdBxAFgn_817eQAfJT85-26">
+          <mxGeometry x="-0.3609" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jdBxAFgn_817eQAfJT85-24" value="Airline Systems" style="image;html=1;image=img/lib/clip_art/computers/Network_128x128.png;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="414" y="30" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jdBxAFgn_817eQAfJT85-25" value="Airline Systems Developer" style="image;html=1;image=img/lib/clip_art/people/Construction_Worker_Woman_128x128.png;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="520" y="10" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jdBxAFgn_817eQAfJT85-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="jdBxAFgn_817eQAfJT85-28" target="jdBxAFgn_817eQAfJT85-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jdBxAFgn_817eQAfJT85-30" value="Access data on people &lt;br&gt;entering/leaving airport,&lt;br&gt;destinations, more" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="jdBxAFgn_817eQAfJT85-29">
+          <mxGeometry x="-0.1249" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jdBxAFgn_817eQAfJT85-28" value="Local Authorities" style="image;html=1;image=img/lib/clip_art/people/Pilot_Man_Black_128x128.png;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="340" y="580" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jdBxAFgn_817eQAfJT85-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="jdBxAFgn_817eQAfJT85-35" target="jdBxAFgn_817eQAfJT85-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jdBxAFgn_817eQAfJT85-38" value="Request Flight Information" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="jdBxAFgn_817eQAfJT85-37">
+          <mxGeometry x="-0.1528" y="5" relative="1" as="geometry">
+            <mxPoint x="-4" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jdBxAFgn_817eQAfJT85-35" value="3rd Party Apps" style="image;html=1;image=img/lib/clip_art/computers/Network_128x128.png;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="350" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jdBxAFgn_817eQAfJT85-36" value="3rd Party App Developer" style="image;html=1;image=img/lib/clip_art/people/Construction_Worker_Woman_128x128.png;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="710" y="370" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
