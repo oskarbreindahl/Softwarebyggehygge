@@ -1,30 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2024-03-01T14:50:34.405Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="DQKdcxkuFTuUX5j3fIuq" version="24.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-01T14:54:52.676Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="mhgdpaEkFPdX9GSFA8Wi" version="24.0.0" type="github">
   <diagram name="Page-1" id="RTZI7BI9XGlL8lKhkfU2">
     <mxGraphModel dx="1407" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="jgzKc0FuCxYrkeADa3Bx-9" value="«Annotation»&lt;br&gt;&lt;b&gt;Flight&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;API&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="290" y="130" width="180" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="jgzKc0FuCxYrkeADa3Bx-10" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="jgzKc0FuCxYrkeADa3Bx-9">
-          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
-            <mxPoint x="-27" y="7" as="offset" />
+        <mxCell id="jgzKc0FuCxYrkeADa3Bx-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=70;entryDy=23;endArrow=none;endFill=0;entryPerimeter=0;dashed=1;dashPattern=8 8;" parent="1" source="jgzKc0FuCxYrkeADa3Bx-14" target="VFhXdiP3xMnJc5qm5MnM-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="175" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jgzKc0FuCxYrkeADa3Bx-11" value="«Annotation»&lt;br&gt;&lt;b&gt;Flight&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;API&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="260" y="410" width="180" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="jgzKc0FuCxYrkeADa3Bx-12" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="jgzKc0FuCxYrkeADa3Bx-11">
-          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
-            <mxPoint x="-27" y="7" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jgzKc0FuCxYrkeADa3Bx-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="jgzKc0FuCxYrkeADa3Bx-14" target="jgzKc0FuCxYrkeADa3Bx-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jgzKc0FuCxYrkeADa3Bx-14" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;Secured API for airlines, provides boarding pass issuing and registration/request for allocation of flight ressources ahead of time&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+        <mxCell id="jgzKc0FuCxYrkeADa3Bx-14" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;Secured API for airlines, provides boarding pass issuing and registration/request for allocation of flight ressources ahead of time&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" parent="1" vertex="1">
           <mxGeometry x="510" y="125" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VFhXdiP3xMnJc5qm5MnM-1" value="FlightAPI" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="370" y="140" width="95" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VFhXdiP3xMnJc5qm5MnM-3" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="370" y="300" width="95" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
