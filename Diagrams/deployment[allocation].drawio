@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-04T14:38:22.000Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="FDu59SXSUnBF9Iyv3L-b" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-04T14:38:46.973Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="6HD0qs2cZKROUOu1cFKk" version="23.1.6" type="github">
   <diagram name="Page-1" id="1W9rriEMluKcIFQNK_wU">
     <mxGraphModel dx="794" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,9 +8,9 @@
           <mxGeometry x="230" y="130" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HE3g9IFokqo1h-lJYSGL-2" value="&amp;lt;&amp;lt;device&amp;gt;&amp;gt;&lt;br&gt;:BoardingPassScanner" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;align=left;fontStyle=4;verticalAlign=top;spacingLeft=4;" vertex="1" parent="1">
-          <mxGeometry x="420" y="130" width="150" height="80" as="geometry" />
+          <mxGeometry x="460" y="130" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HE3g9IFokqo1h-lJYSGL-3" value="&amp;lt;&amp;lt;device&amp;gt;&amp;gt;&lt;br&gt;:CargoScanner" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;align=left;fontStyle=4;verticalAlign=top;spacingLeft=4;" vertex="1" parent="1">
+        <mxCell id="HE3g9IFokqo1h-lJYSGL-3" value="&amp;lt;&amp;lt;device&amp;gt;&amp;gt;&lt;br&gt;:BoardingPassScannerAdapter" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;align=left;fontStyle=4;verticalAlign=top;spacingLeft=4;" vertex="1" parent="1">
           <mxGeometry x="310" y="270" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
