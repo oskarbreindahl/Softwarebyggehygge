@@ -1,17 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2024-03-04T11:49:05.478Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="4yysygWCRiOWRreKkYAw" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-04T11:54:02.731Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="Dn5gPF5v2jy0d2aMkKg0" version="23.1.6" type="github">
   <diagram name="Page-1" id="HcmS3u_ktw_YCwsRuwHg">
     <mxGraphModel dx="1034" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="WJw3mbz3F_eYc_uWYeea-1" value="InformationAPI" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="80" y="140" width="110" height="60" as="geometry" />
+        <mxCell id="WJw3mbz3F_eYc_uWYeea-5" value="«module»&lt;br&gt;&lt;b&gt;InformationAPI&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="40" y="60" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="WJw3mbz3F_eYc_uWYeea-2" value="FlightAPI" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="80" y="220" width="110" height="60" as="geometry" />
+        <mxCell id="WJw3mbz3F_eYc_uWYeea-6" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="WJw3mbz3F_eYc_uWYeea-5">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="WJw3mbz3F_eYc_uWYeea-3" value="RestrictedAPI" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="80" y="300" width="110" height="60" as="geometry" />
+        <mxCell id="WJw3mbz3F_eYc_uWYeea-7" value="«module»&lt;br&gt;&lt;b&gt;FlightAPI&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="WJw3mbz3F_eYc_uWYeea-8" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="WJw3mbz3F_eYc_uWYeea-7">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WJw3mbz3F_eYc_uWYeea-9" value="«module»&lt;br&gt;&lt;b&gt;RestrictedInfoAPI&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="40" y="340" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="WJw3mbz3F_eYc_uWYeea-10" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="WJw3mbz3F_eYc_uWYeea-9">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
