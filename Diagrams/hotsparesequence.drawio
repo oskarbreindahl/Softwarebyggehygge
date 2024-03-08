@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-08T13:46:17.373Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="YoWoZn9IPr2j9b8zzJFF" version="24.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-08T13:58:24.130Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="MnfFJqVNkHYFjM6YxBjB" version="24.0.0" type="github">
   <diagram name="Page-1" id="71ivUI4lZ3QJQVUcCtZd">
     <mxGraphModel dx="989" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FbUoxFR7nA8MlymFD1dx-49" value="notifyDeadCore(3)" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;align=center;" edge="1" parent="1">
-          <mxGeometry x="-0.7174" width="80" relative="1" as="geometry">
+          <mxGeometry x="-0.2391" y="1" width="80" relative="1" as="geometry">
             <mxPoint x="85" y="271" as="sourcePoint" />
             <mxPoint x="545" y="271" as="targetPoint" />
             <mxPoint as="offset" />
@@ -138,6 +138,13 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="435" y="464" as="sourcePoint" />
             <mxPoint x="545" y="464" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FbUoxFR7nA8MlymFD1dx-69" value="okWhatever" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.2391" y="1" relative="1" as="geometry">
+            <mxPoint x="545" y="289" as="sourcePoint" />
+            <mxPoint x="85" y="289" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
