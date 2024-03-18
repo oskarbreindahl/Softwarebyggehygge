@@ -21,7 +21,7 @@ function issueBoardingPass(first_name, last_name, id){
 
   dbEntry = first_name + ";" + last_name + ";" + id + ";issued" + "\n"
 
-  fs.writeFile('./db.txt', dbEntry, err => {
+  fs.appendFile('./db.txt', dbEntry, err => {
     if (err) {
       console.error(err);
     }
