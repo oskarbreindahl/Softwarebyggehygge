@@ -28,7 +28,7 @@ function App() {
         <Button variant="outlined" endIcon={<SendIcon />} onClick={handleClick} style={{
           display: 'center',
           alignItems: 'center',
-          }}>Get Message</Button>
+          }}>Get boarding pass</Button>
         <p>Received message: {message}</p>
       </Stack>
     </Container>

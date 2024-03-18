@@ -1,5 +1,6 @@
 const express = require('express');
 const cors = require('cors');
+const fs = require('node:fs');
 const { json } = require('express/lib/response');
 const app = express();
 app.use(cors());
@@ -14,9 +15,25 @@ app.listen(3001, () => {
 });
 
 function issueBoardingPass(first_name, last_name, id){
+  if (!verifyPerson(first_name, last_name, id)) {
+    return { error }
+  }
+
+  dbEntry = first_name + ";" + last_name + ";" + id + ";issued" + "\n"
+
+  fs.writeFile('./db.txt', dbEntry, err => {
+    if (err) {
+      console.error(err);
+    }
+  });
+
   return {
     first_name : first_name,
     last_name : last_name,
     id : id
   }
+}
+
+function verifyPerson(first_name, last_name, id) {
+  return true
 }
