@@ -2,7 +2,7 @@
 FROM node:latest
 
 # Set working directory within the container
-WORKDIR /website
+WORKDIR /SkyGate_Prototype
 
 # Copy package.json and package-lock.json for backend
 COPY package*.json ./
@@ -17,7 +17,7 @@ COPY . .
 RUN npm run
 
 # Set working directory for frontend
-WORKDIR /website/frontend
+WORKDIR /SkyGate_Prototype/frontend
 
 # Copy package.json and package-lock.json for frontend
 COPY frontend/package*.json ./
