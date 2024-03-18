@@ -33,7 +33,7 @@ COPY frontend/public ./public
 RUN npm run
 
 # Set working directory to root
-WORKDIR /website
+WORKDIR /SkyGate_Prototype
 
 # Expose port 3000 for backend
 EXPOSE 3000
